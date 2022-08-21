@@ -1,4 +1,4 @@
 <?php
  $name = $_POST['username'];
- echo $name;
+ echo 'flitchzy';
 ?>
